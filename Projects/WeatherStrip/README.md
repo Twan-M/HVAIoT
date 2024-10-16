@@ -4,7 +4,7 @@ Gebruikt de API van OpenMTEO om het weer van de dag te tonen op een LED strip me
 > Linker zeide geeft temperatuur aan.
 >> 5C = Koud = Blue
 >> 
->> 15C = Warm = BLue
+>> 15C = Warm = Red
 >> 
 >> Gradient mapping voor overige temperaturen, waarbij 10C = Midden = Orange/White
 
